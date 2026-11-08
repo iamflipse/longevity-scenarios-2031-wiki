@@ -1,0 +1,7 @@
+[book]
+title = "Longevity 2031 Scenarios Wiki"
+authors = ["iamflipse"]
+description = "Curated wiki distilling David Wood's 'Anticipating the state of the longevity community and longevity science in 2031' (International Longevity Summit, Madrid): three scenarios for 2031 and the ten levers that shift their probabilities."
+
+[build]
+charset = "utf-8"
